@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
-        "projectName": "SalesWebMVC",
-        "projectPath": "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMvc.csproj",
+        "projectName": "SalesWebMvc",
+        "projectPath": "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
         "outputPath": "C:\\xampp3\\htdocs\\source\\projetos\\SalesWebMVC\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
